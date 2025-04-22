@@ -6,3 +6,6 @@ Data set : This is a transactional data set which contains all the transactions 
 The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 The Webpage containing the Dataset says that the set has NO missing Values, this will be verified. 
+ 
+
+Please extract the zip file in your local repository, do not push it to the main branch (extarcted version)
