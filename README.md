@@ -9,3 +9,19 @@ The Webpage containing the Dataset says that the set has NO missing Values, this
  
 
 Please extract the zip file in your local repository, do not push it to the main branch (extarcted version)
+
+## Project owners
+
+This project has been completely developed by these three University students:
+
+- Charles Biren
+
+- Tomás Coimbra
+
+- André Martins
+
+## Tools used during this project
+
+Currently, we will be using **python** with the help of some external libraries, such as Numpy to interpret all the data as well as visualize it.
+
+All the Data will be stored as a **CSV file**, this will give us the flexibility to used some other external tools during the future of this project.
