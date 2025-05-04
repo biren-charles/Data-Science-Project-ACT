@@ -1,27 +1,33 @@
-# Data-Science-Project-ACT
-Data Science Project ACT for uni.lu semester 4
+# Data Science Project – ACT  
+**University of Luxembourg – Semester 4**
 
-Project for Data Science Class
-Data set : This is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
-The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+## Project Description
 
-The Webpage containing the Dataset says that the set has NO missing Values, this will be verified. 
- 
+This project was developed for the *Data Science* class.
 
-Please extract the zip file in your local repository, do not push it to the main branch (extarcted version)
+**Dataset**:  
+We are using a transactional dataset containing all transactions that occurred between **01/12/2010** and **09/12/2011** for a UK-based, non-store online retailer.  
+The company primarily sells unique, all-occasion gifts. Many of its customers are wholesalers.
 
-## Project owners
+> ⚠️ The website providing the dataset states that there are **no missing values** – this claim will be verified during the analysis.
 
-This project has been completely developed by these three University students:
+---
 
-- Charles Biren
+## Project Owners
 
-- Tomás Coimbra
+This project was fully developed by the following University of Luxembourg students:
 
+- Charles Biren  
+- Tomás Coimbra  
 - André Martins
 
-## Tools used during this project
+---
 
-Currently, we will be using **python** with the help of some external libraries, such as Numpy to interpret all the data as well as visualize it.
+## Tools Used
 
-All the Data will be stored as a **CSV file**, this will give us the flexibility to used some other external tools during the future of this project.
+We will be working primarily with **Python**, making use of several external libraries such as:
+
+- **Pandas** – for data manipulation and analysis  
+- **Matplotlib** / **Seaborn** – for data visualization  
+
+All data will be stored in **CSV format**, which allows us the flexibility to use additional external tools throughout the project as needed.
